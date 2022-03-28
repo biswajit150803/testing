@@ -1,0 +1,3 @@
+It is difficult
+$git init
+
